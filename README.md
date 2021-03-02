@@ -6,7 +6,7 @@
 
 ### Вывов элемента по ID
 
-![Screenshot](screenshots/GetById.png)
+![Screenshot](screenshots/GetByID.png)
 
 ### Добавление контакта
 
